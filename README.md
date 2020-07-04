@@ -18,7 +18,10 @@ __Citation__: Ofenheimer, A, Breyer‐Kohansal, R, Hartl, S, et al. Reference ch
 
 ## Installation
 
-- donwload the ZIP file for your operating system
+- donwload the ZIP file for your operating system from the following links:
+  * [MacOS](https://drive.google.com/file/d/1yFeIRkFhvuneLiUll2ODbSsUWG-1iPTz/view?usp=sharing). Requirements: MacOS 10.15.x or higher.
+  * [Windows](https://drive.google.com/file/d/1gehlHpsnJLuei5Q5_50DpdGRgs3DvRLQ/view?usp=sharing). Requirements: Windows 10.
+
 - unpack it
 - the unpacked application can be used right away without additional installation
 
