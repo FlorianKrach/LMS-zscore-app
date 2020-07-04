@@ -63,6 +63,6 @@ Note: some of the variables are only available for children (aged < 18 years) an
 If you find these applications useful or if you use it for your own work, please cite the papers referenced above.
 
 ## Further information
-For further questions write an e-mail to a.ofenheimer@gmx.net 
+For further questions write an e-mail to a.ofenheimer@gmx.net.   
 The reference charts published in the articles, can be provided on request in a larger format.
 
