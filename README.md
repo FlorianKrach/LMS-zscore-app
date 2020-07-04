@@ -27,12 +27,32 @@ __Citation__: Ofenheimer, A, Breyer‐Kohansal, R, Hartl, S, et al. Reference ch
 
 
 ## Usage
+- provide all information: 
+  * birthdate and the day of the DXA measurement in following format: DD-MM-YY, e.g. for 1st of May 2001 write 01-05-2001
+  * the sex: for male write 0, for female write 1
+  * the value of the measurements that you have values for:   
+    FM android/gynoid, FM trunk/limbs and weight in kg  
+    height in cm  
+    VAT mass in g  
+    LMI, FMI, BMI and appendicular LMI in kg/m^2  
+    fitted BMI and fitted LMI in kg/m^3  
+    fitted FMI in kg/m^2.5  
+    fitted appendicular LMI (ALMI) in kg/m^3.5  
 
+- how to calculate the indices (FMI, LMI, BMI, appendicular LMI): 
+  * take the value of the total body lean mass/fat mass/body mass or the sum of the lean mass of the limbs in kg
+  * divide it by the body height^2 (cm)
+
+- if you want to compare the fitted indices:
+  * divide it by height^exponent
+
+Note: some of the variables are only available for children (aged < 18 years) and some only for adults (≥ 18 years).
 
 ## Known Issues
 
 * both operating systems:
   - it might take some minutes for the application to start
+  - you migh have to aggree to open the application under system preferences
 
 * MacOS:
   - an operating system of 10.15.x or higher should be used
@@ -41,4 +61,8 @@ __Citation__: Ofenheimer, A, Breyer‐Kohansal, R, Hartl, S, et al. Reference ch
 
 ## Citation
 If you find these applications useful or if you use it for your own work, please cite the papers referenced above.
+
+## Further information
+For further questions write an e-mail to a.ofenheimer@gmx.net 
+The reference charts published in the articles, can be provided on request in a larger format.
 
